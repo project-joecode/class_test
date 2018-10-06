@@ -1,1 +1,2 @@
-The ground is dusty and red
+The ground is dusty and red.
+Probably dry.
