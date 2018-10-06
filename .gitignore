@@ -1,2 +1,4 @@
 pluto.txt
 moons/
+*.data
+!final.data
